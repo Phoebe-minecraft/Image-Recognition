@@ -1,0 +1,14 @@
+body{
+    background-color: teal;
+    color:aquamarine;
+    
+}
+
+.heading{
+    width: 90%;
+    letter-spacing: 5px;
+    color:teal ;
+    font-weight: bolder;
+}
+
+
